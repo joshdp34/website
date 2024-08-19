@@ -1,0 +1,42 @@
+---
+title: "Joshua Patrick"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: 
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/joshdp34
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/joshua-patrick-14509054/
+---
+
+I am a Senior Lecturer in the Department of Statistical Science at Baylor University. My academic interests are in Statistics Education, Sports Analytics, and Machine Learning, areas where I seek to blend theory with practical application. As a proud alum of Baylor University, I embrace the opportunity to contribute to the academic community that shaped my journey. My faith is central to who I am, and I strive to live out my commitment as a follower of Jesus Christ in all aspects of my life. Outside of academia, I cherish the time I spend with my wife and three sons.
+
+
+## Education
+
+| **Baylor University** | Waco, TX
+| PhD in Statistics | May 2013
+
+| **University of West Florida** | Pensacola, FL
+| MS in Mathematical Sciences | May 2009
+| BS in Computational and Applied Mathematics | Dec 2007
+
+## Experience
+
+| **Baylor University** | Senior Lecturer | Aug 2022 - present
+| **Baylor University** | Lecturer | June 2016 - July 2022
+| **University of California, Davis** | Postdoctoral Research Scholar | Aug 2013 - June 2016
+
+
+
+
+
+
+
+
+
+

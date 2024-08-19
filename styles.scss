@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+/* Quarto and Bootstrap Variables */
+// https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+$body-bg: white; 
+$body-color: #333333;
+$primary: #333333;
+
+// Common variables to add a bit more color: $link-color, $headings-color, $navbar-bg
+$navbar-bg: #eeeeee;
+
+// Code background a bit closer to text color
+$code-color: $body-color;
+$code-block-bg:  theme-fade($body-bg, $body-color, 5%);
+$code-bg: $code-block-bg;
+
+/*-- scss:rules --*/
+
+
+// Put CSS rules down here
+.nav-link.active {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.code-with-filename .code-with-filename-file {
+    background-color: theme-fade($body-bg, $body-color, 10%);
+  }
