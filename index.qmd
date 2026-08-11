@@ -1,8 +1,8 @@
 ---
 title: "Joshua Patrick"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
 image: profile.jpg
-about: 
+page-layout: article
+about:
   template: solana
   links:
     - icon: github
@@ -11,9 +11,12 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/joshua-patrick-14509054/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@jdp-3430
 ---
 
-I am a Senior Lecturer in the Department of Statistical Science at Baylor University. My academic interests are in Statistics Education, Sports Analytics, and Machine Learning, areas where I seek to blend theory with practical application. As a proud alum of Baylor University, I embrace the opportunity to contribute to the academic community that shaped my journey. My faith is central to who I am, and I strive to live out my commitment as a follower of Jesus Christ in all aspects of my life. Outside of academia, I cherish the time I spend with my wife and three sons.
+I am a Senior Lecturer in the Department of Statistical Science at Baylor University. My academic interests are in Statistics Education, Sports Analytics, and Machine Learning, areas where I seek to blend theory with practical application. As a proud alum of Baylor University, I embrace the opportunity to contribute to the academic community that shaped my journey. My faith is central to who I am, and I strive to live out my commitment as a follower of Jesus Christ in all aspects of my life. Outside of academia, I cherish the time I spend with my wife and four kids.
 
 
 ## Education

@@ -2,20 +2,40 @@ project:
   type: website
 
 website:
-  # title: "My Website"
   search: false
-  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
-  # page-footer: "Made with ❤️ and Quarto"
+  open-graph: true
   sidebar:
-    right:
-      - text: Home
+    style: docked
+    search: true
+    title: " "
+    reader-mode: false
+    contents:
+      - text: "Home"
         href: index.qmd
-    tools: 
-      - icon: github
-        text: Github
-        href: https://github.com
+      - section: "Courses"
+        contents:
+          - text: "Introductory Statistical Methods"
+            href: https://joshdp34.github.io/Intro_Stat_Methods/
+          - text: "Intro to Data Science"
+            href: https://joshdp34.github.io/intro_data_science/
+          - text: "Intro to Python"
+            href: https://joshdp34.github.io/intro_python/
+          - text: "Regression"
+            href: https://joshdp34.github.io/regression/
+          - text: "Sports Analytics 2"
+            href: https://joshdp34.github.io/sports_analytics_2/
+          - text: "Statistical Methods"
+            href: https://joshdp34.github.io/Stat_Methods/
+          - text: "Predictive Analytics"
+            href: https://joshdp34.github.io/predictive_analytics/
+          - text: "Business Analytics for Decision Making"
+            href: https://joshdp34.github.io/QBA/
+
+execute:
+  warning: false
+  message: false
+  freeze: auto
 
 format:
   html:
     theme: [cosmo, styles.scss]
-
