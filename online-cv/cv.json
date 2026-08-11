@@ -1,0 +1,38 @@
+[
+  {
+    "type": "Education",
+    "file": "education.json"
+  },
+  {
+    "type": "Experience",
+    "file": "experience.json"
+  },
+  {
+    "type": "Grants",
+    "file": "grants.json"
+  },
+  {
+    "type": "Publications",
+    "file": "publications.json"
+  },
+  {
+    "type": "Presentations",
+    "file": "presentations.json"
+  },
+  {
+    "type": "Awards",
+    "file": "awards.json"
+  },
+  {
+    "type": "Service",
+    "file": "service.json"
+  },
+  {
+    "type": "Professional Memberships",
+    "file": "prof_memberships.json"
+  },
+  {
+    "type": "Courses Taught",
+    "file": "courses.json"
+  }
+]

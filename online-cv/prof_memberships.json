@@ -1,0 +1,24 @@
+[
+  {
+    "start": {
+      "year": 2008,
+      "month": "June"
+    },
+    "end": {
+      "present": true
+    },
+    "event": "The American Statistical Association (ASA)",
+    "description": ""
+  },
+  {
+    "start": {
+      "year": 2015,
+      "month": "Jan"
+    },
+    "end": {
+      "present": true
+    },
+    "event": "Spatial Statistics Society",
+    "description": ""
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "start": {
+      "month": "July",
+      "year": 2023
+    },
+    "end": {
+      "present": true
+    },
+    "event": "SCORE with Data",
+    "description": "National Science Foundation funded project to generate educational statistics and data science materials (modules) with sports content (award 2142705)."
+  }
+]

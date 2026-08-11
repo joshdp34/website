@@ -1,0 +1,50 @@
+[
+  {
+    "start": {
+      "year": 2025,
+      "month": "Dec"
+    },
+    "end": {
+      "year": 2025,
+      "month": "Dec"
+    },
+    "event": "A&S Innovation in Teaching Award",
+    "description": "For development of STA 2315 Data Communication with AI"
+  },
+  {
+    "start": {
+      "year": 2013,
+      "month": "June"
+    },
+    "end": {
+      "year": 2013,
+      "month": "June"
+    },
+    "event": "R. L. Anderson Best Poster Runner-Up",
+    "description": "Awarded at the Southern Regional Council on Statistics Summer Research Conference, Burns, Tennessee"
+  },
+  {
+    "start": {
+      "year": 2011,
+      "month": "May"
+    },
+    "end": {
+      "year": 2011,
+      "month": "May"
+    },
+    "event": "Outstanding Graduate Student Teaching Award",
+    "description": "Awarded by the Department of Statistical Science, Baylor University, Waco, Texas"
+  },
+  {
+    "start": {
+      "year": 2010,
+      "month": "May"
+    },
+    "end": {
+      "year": 2010,
+      "month": "May"
+    },
+    "event": "Outstanding First Year Graduate Student Award",
+    "description": "Awarded by the Department of Statistical Science, Baylor University, Waco, Texas"
+  }
+]
