@@ -12,6 +12,8 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
+      - text: "Curriculum Vitae"
+        href: online-cv/
       - section: "Courses"
         contents:
           - text: "Introductory Statistical Methods"
