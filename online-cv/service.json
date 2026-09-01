@@ -1,4 +1,15 @@
 [
+   {
+    "start": {
+      "year": 2025,
+      "month": "September"
+    },
+    "end": {
+      "present": true
+    },
+    "event": "Judge - Reproducible Research Competition",
+    "description": "Carnegie Mellon Sports Analytics Conference"
+  },
   {
     "start": {
       "year": 2023,
