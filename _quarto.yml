@@ -16,10 +16,12 @@ website:
         href: online-cv/
       - section: "Courses"
         contents:
-          - text: "Introductory Statistical Methods"
-            href: https://joshdp34.github.io/Intro_Stat_Methods/
+          - text: "Data Communication with AI"
+            href: https://joshdp34.github.io/Data_Comm/
           - text: "Intro to Data Science"
             href: https://joshdp34.github.io/intro_data_science/
+          - text: "Introductory Statistical Methods"
+            href: https://joshdp34.github.io/Intro_Stat_Methods/
           - text: "Intro to Python"
             href: https://joshdp34.github.io/intro_python/
           - text: "Regression"
