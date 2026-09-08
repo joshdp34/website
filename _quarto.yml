@@ -18,6 +18,8 @@ website:
         href: index.qmd
       - text: "Curriculum Vitae"
         href: online-cv/
+      - text: "Sports Analytics Projects"
+        href: https://patricksportsanalytics.com/
       - section: "Courses"
         contents:
           - text: "Data Communication with AI"
