@@ -1,0 +1,38 @@
+[
+  {
+    "start": {
+      "month": "Aug",
+      "year": 2005
+    },
+    "end": {
+      "month": "Dec",
+      "year": 2007
+    },
+    "event": "B.S. \\it{Computational and Applied Mathematics}",
+    "description": "University of West Florida, Pensacola, Florida"
+  },
+  {
+    "start": {
+      "month": "Jan",
+      "year": 2008
+    },
+    "end": {
+      "month": "May",
+      "year": 2009
+    },
+    "event": "M.S. \\it{Mathematical Sciences}",
+    "description": "University of West Florida, Pensacola, Florida"
+  },
+  {
+    "start": {
+      "month": "Aug",
+      "year": 2009
+    },
+    "end": {
+      "month": "May",
+      "year": 2013
+    },
+    "event": "Ph.D. \\it{Statistics}",
+    "description": "Baylor University, Waco, Texas\\nDissertation Title: Semiparametric Estimation and Forecasting for Functional-Coefficient\\nAutoregressive Models\\nAdvisor: Jane L. Harvill"
+  }
+]

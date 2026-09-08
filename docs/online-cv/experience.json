@@ -1,0 +1,61 @@
+[
+  {
+    "start": {
+      "month": "Aug",
+      "year": 2022
+    },
+    "end": {
+      "present": true
+    },
+    "event": "Senior Lecturer",
+    "description": "Department of Statistical Science\\nBaylor University"
+  },
+  {
+    "start": {
+      "month": "July",
+      "year": 2016
+    },
+    "end": {
+      "month": "Aug",
+      "year": 2022
+    },
+    "event": "Lecturer",
+    "description": "Department of Statistical Science\\nBaylor University"
+  },
+  {
+    "start": {
+      "month": "July",
+      "year": 2013
+    },
+    "end": {
+      "month": "June",
+      "year": 2016
+    },
+    "event": "Post-Doctoral Research Scholar",
+    "description": "Department of Statistics\\nUniversity of California, Davis\\nMentor: Wolfgang Polonik"
+  },
+  {
+    "start": {
+      "month": "June",
+      "year": 2012
+    },
+    "end": {
+      "month": "Aug",
+      "year": 2012
+    },
+    "event": "Graduate Student Intern",
+    "description": "Photovoltaic and Grid Integration Department\\nSandia National Laboratories, Albuquerque, NM\\nSupervisor: Cliff W. Hansen"
+  },
+  {
+    "start": {
+      "month": "Aug",
+      "year": 2011
+    },
+    "end": {
+      "month": "Dec",
+      "year": 2011
+    },
+    "event": "Consultant",
+    "description": "Worked with Steven R. Eisenbarth, Associate Dean of the School of Engineering and Computer Science\\nHelped design and analyze survey data for a S-STEM scholarship program.\\nWorked with Carolyn Skurla, Professor of Mechanical Engineering\\nConstructed tolerance intervals for use in predicting performance in undergraduate Engineering program."
+  }
+]

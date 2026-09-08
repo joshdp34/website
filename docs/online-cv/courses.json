@@ -1,0 +1,1106 @@
+[
+  {
+    "start": {
+      "year": 2008,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2008,
+      "month": "May"
+    },
+    "event": "STA 3162c",
+    "description": "Lab Instructor for Applied Statistics - University of West Florida"
+  },
+  {
+    "start": {
+      "year": 2008,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2008,
+      "month": "Dec"
+    },
+    "event": "MAC 1105",
+    "description": "College Algebra - University of West Florida"
+  },
+  {
+    "start": {
+      "year": 2009,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2009,
+      "month": "May"
+    },
+    "event": "MAC 1105",
+    "description": "College Algebra - University of West Florida"
+  },
+  {
+    "start": {
+      "year": 2009,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2009,
+      "month": "May"
+    },
+    "event": "STA 3162c",
+    "description": "Lab Instructor for Applied Statistics - University of West Florida"
+  },
+  {
+    "start": {
+      "year": 2009,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2009,
+      "month": "Dec"
+    },
+    "event": "PSY 2402",
+    "description": "Lab Instructor for Statistics for Psychology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2010,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2010,
+      "month": "Dec"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2011,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2011,
+      "month": "May"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2012,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2012,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2013,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2013,
+      "month": "Dec"
+    },
+    "event": "STA 013",
+    "description": "Elementary Statistics - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2014,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2014,
+      "month": "Mar"
+    },
+    "event": "STA 198",
+    "description": "Winter Lecture Series - Spatial Temporal Statistics - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2014,
+      "month": "Mar"
+    },
+    "end": {
+      "year": 2014,
+      "month": "Jun"
+    },
+    "event": "STA 032",
+    "description": "Stats thru Computing - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2014,
+      "month": "Mar"
+    },
+    "end": {
+      "year": 2014,
+      "month": "Jun"
+    },
+    "event": "STA 108",
+    "description": "Regression Analysis - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2014,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2014,
+      "month": "Dec"
+    },
+    "event": "STA 198",
+    "description": "Fall Lecture Series-Spatio-Temporal Analysis and Simulation - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2015,
+      "month": "Mar"
+    },
+    "end": {
+      "year": 2015,
+      "month": "June"
+    },
+    "event": "STA 100",
+    "description": "Applied Statistics for Bio Sciences - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2015,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2015,
+      "month": "Dec"
+    },
+    "event": "STA 013",
+    "description": "Elementary Statistics - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2015,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2015,
+      "month": "Dec"
+    },
+    "event": "STA 198",
+    "description": "Environmental Data Analysis - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2016,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2016,
+      "month": "Mar"
+    },
+    "event": "STA 137",
+    "description": "Applied Time Series Analysis - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2016,
+      "month": "Mar"
+    },
+    "end": {
+      "year": 2016,
+      "month": "June"
+    },
+    "event": "STA 198",
+    "description": "Spatial Lecture Series - UC Davis"
+  },
+  {
+    "start": {
+      "year": 2016,
+      "month": "June"
+    },
+    "end": {
+      "year": 2016,
+      "month": "July"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2016,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2016,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2016,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2016,
+      "month": "Dec"
+    },
+    "event": "STA 3381",
+    "description": "Probability and Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2017,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2017,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2017,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2017,
+      "month": "May"
+    },
+    "event": "STA 4385",
+    "description": "Mathematical Statistics I - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2017,
+      "month": "May"
+    },
+    "end": {
+      "year": 2017,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2017,
+      "month": "June"
+    },
+    "end": {
+      "year": 2017,
+      "month": "July"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2017,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2017,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2017,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2017,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2018,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2018,
+      "month": "May"
+    },
+    "event": "STA 4V90",
+    "description": "Special Topics - Applied Time Series Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2018,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2018,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2018,
+      "month": "May"
+    },
+    "end": {
+      "year": 2018,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2018,
+      "month": "July"
+    },
+    "end": {
+      "year": 2018,
+      "month": "Aug"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2018,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2018,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2018,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2018,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2019,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2019,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2019,
+      "month": "Jun"
+    },
+    "end": {
+      "year": 2019,
+      "month": "July"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2019,
+      "month": "Jun"
+    },
+    "end": {
+      "year": 2019,
+      "month": "July"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2019,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2019,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2019,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2019,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2019,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2019,
+      "month": "Dec"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2020,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2020,
+      "month": "May"
+    },
+    "event": "STA 4362",
+    "description": "Applied Time Series Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2020,
+      "month": "Mar"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "May"
+    },
+    "end": {
+      "year": 2020,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "June"
+    },
+    "end": {
+      "year": 2020,
+      "month": "July"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "July"
+    },
+    "end": {
+      "year": 2020,
+      "month": "Aug"
+    },
+    "event": "STA 4350",
+    "description": "Statistical Machine Learning - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "July"
+    },
+    "end": {
+      "year": 2020,
+      "month": "Aug"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2020,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2020,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2020,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2020,
+      "month": "Dec"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2021,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2021,
+      "month": "May"
+    },
+    "event": "STA 2450",
+    "description": "Intro to Computing for Math and Stats - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2021,
+      "month": "April"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "May"
+    },
+    "end": {
+      "year": 2021,
+      "month": "Aug"
+    },
+    "event": "NUR 5201",
+    "description": "Intro to Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "May"
+    },
+    "end": {
+      "year": 2021,
+      "month": "June"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "June"
+    },
+    "end": {
+      "year": 2021,
+      "month": "July"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "July"
+    },
+    "end": {
+      "year": 2021,
+      "month": "Aug"
+    },
+    "event": "STA 4350",
+    "description": "Statistical Machine Learning - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2021,
+      "month": "Dec"
+    },
+    "event": "QBA 3305",
+    "description": "Intro to Business Analytics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2021,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2021,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2021,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2022,
+      "month": "Apr"
+    },
+    "event": "NUR 5201",
+    "description": "Intro to Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2022,
+      "month": "May"
+    },
+    "event": "STA 5V85",
+    "description": "Special Topics: Statistical Consulting - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2022,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2022,
+      "month": "May"
+    },
+    "event": "STA 4362",
+    "description": "Applied Time Series Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "May"
+    },
+    "end": {
+      "year": 2022,
+      "month": "June"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "June"
+    },
+    "end": {
+      "year": 2022,
+      "month": "July"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "July"
+    },
+    "end": {
+      "year": 2022,
+      "month": "Aug"
+    },
+    "event": "STA 4350",
+    "description": "Statistical Machine Learning - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2022,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2022,
+      "month": "Dec"
+    },
+    "event": "STA 2450",
+    "description": "Intro to Computing for Math and Stats - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2022,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2022,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2023,
+      "month": "May"
+    },
+    "event": "CSI 2300",
+    "description": "Intro to Data Science - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2023,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2023,
+      "month": "May"
+    },
+    "event": "STA 4362",
+    "description": "Applied Time Series Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "May"
+    },
+    "end": {
+      "year": 2023,
+      "month": "June"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "June"
+    },
+    "end": {
+      "year": 2023,
+      "month": "July"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "July"
+    },
+    "end": {
+      "year": 2023,
+      "month": "Aug"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2023,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2023,
+      "month": "Dec"
+    },
+    "event": "STA 2450",
+    "description": "Intro to Computing for Math and Stats - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2023,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2023,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2023,
+      "month": "Dec"
+    },
+    "event": "STA 4373",
+    "description": "Computational Methods in STA - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Jan"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2024,
+      "month": "May"
+    },
+    "event": "STA 4362",
+    "description": "Applied Time Series Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Apr"
+    },
+    "event": "STA 5303",
+    "description": "Applied Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "May"
+    },
+    "end": {
+      "year": 2024,
+      "month": "June"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "July"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Aug"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methodology - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Dec"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Dec"
+    },
+    "event": "STA 2450",
+    "description": "Intro to Computing for Math and Stats - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Aug"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Dec"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2024,
+      "month": "Sep"
+    },
+    "end": {
+      "year": 2024,
+      "month": "Dec"
+    },
+    "event": "STA 5320",
+    "description": "Predictive Analytics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2025,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2025,
+      "month": "May"
+    },
+    "event": "STA 1380",
+    "description": "Elementary Statistics - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2025,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2025,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2025,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2025,
+      "month": "May"
+    },
+    "event": "STA 3311",
+    "description": "Sports Analytics II - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2025,
+      "month": "May"
+    },
+    "end": {
+      "year": 2025,
+      "month": "June"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  }
+]

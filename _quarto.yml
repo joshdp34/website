@@ -1,5 +1,9 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+    - online-cv/**
 
 website:
   search: false
