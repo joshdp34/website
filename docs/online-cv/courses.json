@@ -1102,5 +1102,185 @@
     },
     "event": "STA 2381",
     "description": "Introductory Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2025,
+      "month": "July"
+    },
+    "end": {
+      "year": 2025,
+      "month": "August"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2025,
+      "month": "August"
+    },
+    "end": {
+      "year": 2025,
+      "month": "December"
+    },
+    "event": "STA 2300",
+    "description": "Intro to Data Science - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2025,
+      "month": "August"
+    },
+    "end": {
+      "year": 2025,
+      "month": "December"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2025,
+      "month": "August"
+    },
+    "end": {
+      "year": 2025,
+      "month": "December"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+{
+    "start": {
+      "year": 2025,
+      "month": "September"
+    },
+    "end": {
+      "year": 2025,
+      "month": "December"
+    },
+    "event": "QBA 5330",
+    "description": "Business Analytics for Decision Making - Baylor University"
+  },
+  {
+    "start": {
+      "year": 2026,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2026,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2026,
+      "month": "May"
+    },
+    "event": "STA 3311",
+    "description": "Sports Analytics II - Baylor University"
+  },
+{
+    "start": {
+      "year": 2025,
+      "month": "Jan"
+    },
+    "end": {
+      "year": 2025,
+      "month": "May"
+    },
+    "event": "STA 5320",
+    "description": "Predictive Analytics - Baylor University"
+  },
+{
+    "start": {
+      "year": 2025,
+      "month": "May"
+    },
+    "end": {
+      "year": 2025,
+      "month": "June"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "July"
+    },
+    "end": {
+      "year": 2026,
+      "month": "August"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "July"
+    },
+    "end": {
+      "year": 2026,
+      "month": "August"
+    },
+    "event": "STA 5300",
+    "description": "Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "August"
+    },
+    "end": {
+      "year": 2026,
+      "month": "May"
+    },
+    "event": "STA 2381",
+    "description": "Introductory Statistical Methods - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "August"
+    },
+    "end": {
+      "year": 2026,
+      "month": "December"
+    },
+    "event": "STA 2300",
+    "description": "Intro to Data Science - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "August"
+    },
+    "end": {
+      "year": 2026,
+      "month": "December"
+    },
+    "event": "STA 3386",
+    "description": "Regression Analysis - Baylor University"
+  },
+{
+    "start": {
+      "year": 2026,
+      "month": "September"
+    },
+    "end": {
+      "year": 2026,
+      "month": "December"
+    },
+    "event": "QBA 5330",
+    "description": "Business Analytics for Decision Making - Baylor University"
   }
 ]
