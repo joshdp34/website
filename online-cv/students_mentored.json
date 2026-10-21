@@ -1,0 +1,26 @@
+[
+  {
+    "start": {
+      "month": "July",
+      "year": 2026
+    },
+    "end": {
+      "month": "Oct",
+      "year": 2026
+    },
+    "event": "Hailey Collins",
+    "description": "Summer SCORE Intern"
+  },
+  {
+    "start": {
+      "month": "Jan",
+      "year": 2023
+    },
+    "end": {
+      "month": "July",
+      "year": 2023
+    },
+    "event": "Connor Bryson",
+    "description": "SCORE Intern"
+  }
+]

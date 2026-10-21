@@ -1,0 +1,54 @@
+[
+  {
+    "start": {
+      "month": "Sep",
+      "year": 2026
+    },
+    "end": {
+      "month": "Sep",
+      "year": 2026
+    },
+    "event": "Collins, H. and \\bf{Patrick, J. D.} (2026)",
+    "description": "Collins, H. and Patrick, J. D. (2026). Offensive Position and Age at First Recorded NFL Head Injury. \\it{Baylor SCORE Module Preprint Repository}",
+    "url": "https://joshdp34.github.io/baylor_score/football/nfl_head_injuries/"
+  },
+  {
+    "start": {
+      "month": "Sep",
+      "year": 2026
+    },
+    "end": {
+      "month": "Sep",
+      "year": 2026
+    },
+    "event": "Bryson, C. and \\bf{Patrick, J. D.} (2026)",
+    "description": "Bryson, C. and Patrick, J. D. (2026). A Look at Paul George's Missed Free Throws. \\it{Baylor SCORE Module Preprint Repository}",
+    "url": "https://joshdp34.github.io/baylor_score/basketball/conditional_probability/"
+  },
+  {
+    "start": {
+      "month": "June",
+      "year": 2025
+    },
+    "end": {
+      "month": "June",
+      "year": 2025
+    },
+    "event": "Skinner, C., \\bf{Patrick, J. D.}, Bryson, C., and Sturdivant, R. X. (2025)",
+    "description": "Skinner, C., Patrick, J. D., Bryson, C., and Sturdivant, R. X. (2025). MMA Inter-rater Reliability Data Analysis. \\it{SCORE Network Module Repository}",
+    "url": "https://modules.scorenetwork.org/mixed_martial_arts/mma_interrater_reliability/"
+  },
+  {
+    "start": {
+      "month": "July",
+      "year": 2024
+    },
+    "end": {
+      "month": "July",
+      "year": 2024
+    },
+    "event": "Sturdivant, R. X., Young, I., \\bf{Patrick, J. D.}, and Bryson, C. (2024)",
+    "description": "Sturdivant, R. X., Young, I., Patrick, J. D., and Bryson, C. (2024). MMA Fight Decisions. \\it{SCORE Network Module Repository}",
+    "url": "https://modules.scorenetwork.org/mixed_martial_arts/mma_chisquared/"
+  }
+]

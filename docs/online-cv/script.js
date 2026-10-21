@@ -8,6 +8,7 @@
       "Awards": '<i class="fa-solid fa-award"></i>',
       "Service": '<i class="fa-solid fa-hand-holding"></i>',
       "Professional Memberships": '<i class="fa-solid fa-user-tie"></i>',
+      "Students Mentored": '<i class="fa-solid fa-user-graduate"></i>',
       "Courses Taught": '<i class="fa-solid fa-chalkboard-user"></i>',
     };
     const sectionOrder = [
@@ -19,6 +20,7 @@
       "Presentations",
       "Service",
       "Professional Memberships",
+      "Students Mentored",
       "Courses Taught"
     ];
     const monthIndex = {
@@ -44,12 +46,14 @@
     async function loadCv() {
       try {
         const manifest = await fetchJson(manifestPath);
-        const sections = await Promise.all(
+        const parts = await Promise.all(
           manifest.map(async (section) => ({
             type: section.type,
+            subsection: section.subsection,
             entries: await fetchJson(section.file)
           }))
         );
+        const sections = groupSections(parts);
 
         sections.sort((left, right) => {
           return sectionOrder.indexOf(left.type) - sectionOrder.indexOf(right.type);
@@ -67,6 +71,43 @@
         throw new Error(`Could not load ${path}`);
       }
       return response.json();
+    }
+
+    // Manifest entries with a "subsection" are nested under the section of the same type.
+    function groupSections(parts) {
+      const sections = new Map();
+
+      parts.forEach((part) => {
+        if (!sections.has(part.type)) {
+          sections.set(part.type, { type: part.type, entries: [], subsections: [] });
+        }
+        const section = sections.get(part.type);
+        if (part.subsection) {
+          section.subsections.push({ title: part.subsection, entries: part.entries });
+        } else {
+          section.entries.push(...part.entries);
+        }
+      });
+
+      return Array.from(sections.values());
+    }
+
+    function renderSubsection(subsection) {
+      const wrapper = document.createElement("div");
+      wrapper.className = `subsection subsection--${createClassName(subsection.title)}`;
+
+      const heading = document.createElement("h3");
+      heading.className = "subsection-title";
+      heading.textContent = subsection.title;
+
+      const body = document.createElement("div");
+      body.className = "timeline";
+      subsection.entries.slice().sort(sortNewestFirst).forEach((entry) => {
+        body.append(renderTimelineItem(entry));
+      });
+
+      wrapper.append(heading, body);
+      return wrapper;
     }
 
     function renderSection(section) {
@@ -92,7 +133,7 @@
         });
       }
 
-      sectionElement.append(heading, body);
+      sectionElement.append(heading, body, ...section.subsections.map(renderSubsection));
       return sectionElement;
     }
 
@@ -199,6 +240,7 @@
         <div>
           <h3 class="item-title">${formatInline(entry.event)}</h3>
           ${entry.description ? `<p class="item-body">${formatDescription(entry.description)}</p>` : ""}
+          ${entry.url ? `<p class="item-link"><a href="${escapeHtml(entry.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(entry.url)}</a></p>` : ""}
         </div>
       `;
       return item;

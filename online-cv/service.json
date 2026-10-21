@@ -1,6 +1,17 @@
 [
    {
     "start": {
+      "year": 2019,
+      "month": "April"
+    },
+    "end": {
+      "present": true
+    },
+    "event": "Judge - Baylor Research Week Poster Presentations",
+    "description": "URSA Scholar's Week / BEAR Symposium / BSRW"
+  },
+{
+    "start": {
       "year": 2025,
       "month": "September"
     },

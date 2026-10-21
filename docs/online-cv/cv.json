@@ -16,6 +16,11 @@
     "file": "publications.json"
   },
   {
+    "type": "Publications",
+    "subsection": "SCORE Network Modules",
+    "file": "score_modules.json"
+  },
+  {
     "type": "Presentations",
     "file": "presentations.json"
   },
@@ -30,6 +35,10 @@
   {
     "type": "Professional Memberships",
     "file": "prof_memberships.json"
+  },
+  {
+    "type": "Students Mentored",
+    "file": "students_mentored.json"
   },
   {
     "type": "Courses Taught",

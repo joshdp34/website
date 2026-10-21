@@ -361,6 +361,28 @@ h2 {
       line-height: 1.35;
     }
 
+.subsection {
+      margin-top: 22px;
+    }
+
+.subsection-title {
+      margin: 0 0 14px;
+      color: #2d3238;
+      font-size: 0.82rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+.item-link {
+      margin: 2px 0 0;
+      font-size: 0.72rem;
+      overflow-wrap: anywhere;
+    }
+
+    .item-link a {
+      color: var(--accent);
+    }
+
     .item-body em {
       font-style: italic;
     }
